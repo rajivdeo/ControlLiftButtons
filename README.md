@@ -2,7 +2,7 @@
 Automation of User Buttons on Lift (Elevator) control panels
 - Affordable Lift Panel Automation
 
-Friends, after so called emergence of NovellCorona caused Pandemic, life has changed for everyone of us. Today, I am presenting my own solution to operate lifts without physically touching the lift buttons.
+After so called emergence of NovellCorona caused Pandemic, life has changed for everyone of us. Today, I am presenting my own solution to operate lifts without physically touching the lift buttons.
 
 The newly found issue or problem is that we suddenly discovered in Corona times, that it is not hygenic any more to touch lift buttons, as so many persons (potential Corona spreaders) would have touched it before. Societies and offices have started looking for a permanent solution as frequent sanitization of lift buttons is not feasible. 
 
