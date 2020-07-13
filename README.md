@@ -1,10 +1,8 @@
 # ControlLiftButtons
 Automation of User Buttons on Lift control panels
-Affordable Lift Panel Automation
+- Affordable Lift Panel Automation
 
-Friends, after so called emergence of NovellCorona caused Pandemic, life has changed for everyone of us. I am Rajiv Deo, still struggling to adjust with the new culture and weird social patterns! Anyway,
-
-Today, I am presenting my own solution to operate lifts without physically touching the lift buttons.
+Friends, after so called emergence of NovellCorona caused Pandemic, life has changed for everyone of us. Today, I am presenting my own solution to operate lifts without physically touching the lift buttons.
 
 The newly found issue or problem is that we suddenly discovered in Corona times, that it is not hygenic any more to touch lift buttons, as so many persons (potential Corona spreaders) would have touched it before. Societies and offices have started looking for a permanent solution as frequent sanitization of lift buttons is not feasible. 
 
@@ -24,8 +22,4 @@ I have made the enclosure for the device using plywood as it is easy to work wit
 
 Safety features are completely under control of the lift controller. Nothing is modified or connected into the existing Lift system. Reliability and Safety standards remain the same in this proof of concept.
 
-For any questions related to the proof of concept, please contact me at rajivdeo@gmail.com or whatsapp me at 9004899507.
-I do not intend to manufacture or sell these devices. But I can help budding entreprenuers in mass manufacturing this device.
-I can also share my knowledge (offline - one on one and/or online) to a group of interested electronics students on this or or other similar home / office / industry automation projects of your interest.
-
-Subscribe to my channel and do not forget to press the bell button to get intimation of newly uploaded videos. My interests are Mechatronics, IOT, Data science, Cloud computing and Computer generated music. See you in my next video. Bye.
+My interests are Mechatronics, IOT, Data science, Cloud computing and Computer generated music.
