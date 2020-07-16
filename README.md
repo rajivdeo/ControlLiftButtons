@@ -10,7 +10,7 @@ Lift manufacturers are happy and willing to convert your lift into a totally voi
 
 Another major constraint is that the solution has to be independent of cooperation/involvement from the Lift maintenance agencies without violating their terms and conditions for the lift maintenance. The lifts are life critical equipments, hence, connecting directly to the lift control electronics is ruled out.
 
-How do we trigger desired lift button without manually touching it? There are so many alternatives! My proof of concept addresses the question as shown in this video. My solution gives a very gentle push to the lift panel switches and does not in any way damage them.
+How do we trigger desired lift button without manually touching it? There are so many alternatives! My solution gives a very gentle push to the lift panel switches and does not in any way damage them.
 
 My designed prototype device produces a switch trigger equivalent of a gentle human finger press. When you take your finger near the device sensor area, the trigger signal presses the lift button. The sensitivity of the sensor can be adjusted around 30-40 mm, so as to prevent unintentional trigger of the lift button. The proof of concept design is fully extensible. If desired, Alexa based voice control can be added at nominal 10 to 15% increase in DIY costs. You can even control the lift using your mobile phone.
 
